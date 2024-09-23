@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915321381233",
+    "project_id": "fairway-exchange",
+    "storage_bucket": "fairway-exchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915321381233:android:7a7806aec1d69d1244d6d0",
+        "android_client_info": {
+          "package_name": "com.fairwayexchange.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuWgYRQycmeaBRvBohDapMbEY-wZHre-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
