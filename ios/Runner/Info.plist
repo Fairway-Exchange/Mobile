@@ -53,8 +53,16 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 
+	<key>NSCameraUsageDescription</key>
+    <string>&quot;Fairway Exchange&quot; would like to access your camera. This allows you to take photos and videos directly within the app. You can control this permission in Settings.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>&quot;Fairway Exchange&quot; would like access to your photo library. This allows you to select and upload photos within the app. You can manage this permission in Settings.</string>
 
-
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>remote-notification</string>
+    </array>
 
 
 	<key>UILaunchStoryboardName</key>
